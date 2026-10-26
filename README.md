@@ -18,8 +18,8 @@ RailNav AI is a multi-platform indoor navigation solution designed to help passe
 The solution can be accessed through a mobile application, railway digital kiosks, and integration with existing railway applications such as RailMadad and IRCTC.
 
 ## Proposed Solution / Architecture Diagram
-<img width="453" height="657" alt="image" src="https://github.com/user-attachments/assets/4778daf7-8c97-401c-9aa8-68d760877b10" />
 
+<img width="1024" height="1536" alt="Mobile Application Architecture Flowchart" src="https://github.com/user-attachments/assets/69524a73-9c22-40b7-9c2d-57fabf0ec1f8" />
 
 ## Use Cases
 Passenger Navigation
